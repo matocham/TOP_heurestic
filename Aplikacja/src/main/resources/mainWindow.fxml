@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="849.0" prefWidth="1107.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edu.pb.gui.AlgorithmController">
+   <left>
+      <AnchorPane id="configurationBox" prefHeight="286.0" prefWidth="217.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label layoutX="14.0" layoutY="20.0" text="Źródło danych" />
+            <TextField fx:id="dataSource" layoutX="14.0" layoutY="41.0" prefHeight="31.0" prefWidth="190.0" promptText="Plik z danymi" text="test.txt" />
+            <Label layoutX="14.0" layoutY="76.0" text="Hotele" />
+            <TextField fx:id="hotelsDataSource" layoutX="14.0" layoutY="97.0" prefHeight="31.0" prefWidth="190.0" promptText="Plik z hotelami" text="hotel.txt" />
+            <Button fx:id="loadButton" layoutX="14.0" layoutY="136.0" mnemonicParsing="false" onAction="#loadData" text="Załaduj" />
+            <Label layoutX="14.0" layoutY="188.0" text="Iteracje" />
+            <TextField fx:id="iterations" layoutX="14.0" layoutY="209.0" prefHeight="31.0" prefWidth="190.0" promptText="Liczba powtórzeń" text="200" />
+            <Label layoutX="14.0" layoutY="246.0" text="Liczba dni" />
+            <TextField fx:id="daysCount" layoutX="14.0" layoutY="267.0" prefHeight="31.0" prefWidth="190.0" promptText="Liczba tras" text="2" />
+            <Label layoutX="14.0" layoutY="308.0" text="Maksymalna długość" />
+            <TextField fx:id="maxRouteLength" layoutX="14.0" layoutY="329.0" prefHeight="31.0" prefWidth="190.0" promptText="Max długość jednej trasy" text="4400" />
+            <Label layoutX="14.0" layoutY="367.0" text="Liczba rozwiązań - GRASP / ILS - N" />
+            <TextField fx:id="solutionsCount" layoutX="14.0" layoutY="388.0" prefHeight="31.0" prefWidth="190.0" promptText="N" text="2" />
+            <Label layoutX="14.0" layoutY="428.0" text="Hotel" />
+            <ChoiceBox fx:id="hotels" layoutX="14.0" layoutY="449.0" prefHeight="31.0" prefWidth="92.0" />
+            <Label layoutX="124.0" layoutY="428.0" text="Algorytm" />
+            <ChoiceBox fx:id="algorithms" layoutX="124.0" layoutY="449.0" prefHeight="31.0" prefWidth="85.0" />
+            <Button fx:id="start" alignment="CENTER" disable="true" layoutX="6.0" layoutY="494.0" mnemonicParsing="false" onAction="#startAlgorithm" prefHeight="31.0" prefWidth="206.0" text="Start" />
+            <Button fx:id="stop" alignment="CENTER" disable="true" layoutX="6.0" layoutY="538.0" mnemonicParsing="false" onAction="#stopAlgorithm" prefHeight="31.0" prefWidth="206.0" text="Stop" />
+            <CheckBox fx:id="roundToFloor" layoutX="17.0" layoutY="580.0" mnemonicParsing="false" selected="true" text="Zaokrąglaj w dół" />
+            <CheckBox fx:id="exportSolution" layoutX="17.0" layoutY="610.0" mnemonicParsing="false" text="Eksport do kml" />
+            <CheckBox fx:id="degToKm" layoutX="17.0" layoutY="640.0" mnemonicParsing="false" text="Stopnie na km" />
+         </children>
+      </AnchorPane>
+   </left>
+   <center>
+      <Pane id="routeHolder" fx:id="routeHolder" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: black;" BorderPane.alignment="CENTER" />
+   </center>
+   <bottom>
+      <AnchorPane prefHeight="148.0" prefWidth="914.0" BorderPane.alignment="CENTER">
+         <children>
+            <TextArea id="logs" fx:id="logs" editable="false" layoutY="59.0" prefHeight="200.0" prefWidth="600.0" promptText="Logi z aplikacji" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+         </children>
+      </AnchorPane>
+   </bottom>
+</BorderPane>

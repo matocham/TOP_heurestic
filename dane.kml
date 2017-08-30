@@ -1,0 +1,2372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+  <Placemark>
+    <name>Zamek w Malborku</name>
+    <description>80</description>
+    <Point>
+      <coordinates>19.027660, 54.039637</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Brama targowa w Elblągu</name>
+    <description>60</description>
+    <Point>
+      <coordinates>19.395545, 54.161051</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stegna</name>
+    <description>65</description>
+    <Point>
+      <coordinates>19.110263, 54.329079</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pole bitwy pod Grunwaldem</name>
+    <description>55</description>
+    <Point>
+      <coordinates>20.121063, 53.486230</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek w Kwidzynie</name>
+    <description>85</description>
+    <Point>
+      <coordinates>18.920837, 53.736079</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pałac Dohów w Morągu</name>
+    <description>40</description>
+    <Point>
+      <coordinates>19.925863, 53.911757</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek krzyżacki w Morągu</name>
+    <description>55</description>
+    <Point>
+      <coordinates>19.926239, 53.910367</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Ziemi Braniewskiej</name>
+    <description>29</description>
+    <Point>
+      <coordinates>19.821815, 54.381441</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Suwalski Park Karjobrazowy</name>
+    <description>68</description>
+    <Point>
+      <coordinates>22.816110, 54.249594</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek w Węgorzewie</name>
+    <description>30</description>
+    <Point>
+      <coordinates>21.741713, 54.210365</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Twierdza Boyen</name>
+    <description>75</description>
+    <Point>
+      <coordinates>21.749244, 54.032232</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jezioro Niegocin</name>
+    <description>62</description>
+    <Point>
+      <coordinates>21.780760, 54.003574</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek w Kętrzynie</name>
+    <description>53</description>
+    <Point>
+      <coordinates>21.376734, 54.074239</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek w Nowem</name>
+    <description>21</description>
+    <Point>
+      <coordinates>18.730988, 53.646112</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek kasztelański w Nowem</name>
+    <description>21</description>
+    <Point>
+      <coordinates>18.730988, 53.646112</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pomnik Mikołaja Kopernika w Toruniu</name>
+    <description>69</description>
+    <Point>
+      <coordinates>18.604798, 53.010283</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Planetarium w Toruniu</name>
+    <description>43</description>
+    <Point>
+      <coordinates>18.602502, 53.011421</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stary rynek w Płocku</name>
+    <description>47</description>
+    <Point>
+      <coordinates>19.684798, 52.545105</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Skansen w Sierpcu</name>
+    <description>39</description>
+    <Point>
+      <coordinates>19.631906, 52.863042</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Góra zamkowa w Wyszogrodzie</name>
+    <description>21</description>
+    <Point>
+      <coordinates>20.193670, 52.385502</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek krzyżacki w Ostródzie</name>
+    <description>39</description>
+    <Point>
+      <coordinates>19.961076, 53.703227</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pałac Anny Wzaówny w Brodnicy</name>
+    <description>37</description>
+    <Point>
+      <coordinates>19.400210, 53.258160</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek Książąt Mazowieckich w Ciechanowie</name>
+    <description>44</description>
+    <Point>
+      <coordinates>20.619073, 52.884463</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nasielsk - parafia świętego Wojciecha</name>
+    <description>36</description>
+    <Point>
+      <coordinates>20.802486, 52.592128</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wilczy szaniec</name>
+    <description>89</description>
+    <Point>
+      <coordinates>21.494159, 54.080439</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek biskupów warmińskich</name>
+    <description>49</description>
+    <Point>
+      <coordinates>20.583178, 54.125827</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wieża wodna we Fromborku</name>
+    <description>39</description>
+    <Point>
+      <coordinates>19.680418, 54.357694</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek Reszel</name>
+    <description>42</description>
+    <Point>
+      <coordinates>21.147908, 54.048417</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Święta Lipka - sanktuarium</name>
+    <description>69</description>
+    <Point>
+      <coordinates>21.217884, 54.024681</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Święta Lipka - sanktuarium</name>
+    <description>69</description>
+    <Point>
+      <coordinates>21.217884, 54.024681</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bazylika we Fromborku</name>
+    <description>41</description>
+    <Point>
+      <coordinates>19.683195, 54.356772</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Katedra św. Mikołaja, Elbląg</name>
+    <description>29</description>
+    <Point>
+      <coordinates>19.395871, 54.159576</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bazylik Archikatedralna św. Jakuba - Olsztyn</name>
+    <description>47</description>
+    <Point>
+      <coordinates>20.477586, 53.776151</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>Góra 4 wiatrów - Mrągowo</name>
+    <description>57</description>
+    <Point>
+      <coordinates>21.326370, 53.857695</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Leśne Arboretum Warmii i Mazur</name>
+    <description>64</description>
+    <Point>
+      <coordinates>20.379861, 53.765466</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>Park Centralny - Olsztyn</name>
+    <description>50</description>
+    <Point>
+      <coordinates>20.481745, 53.774884</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Park Centralny - Olsztyn</name>
+    <description>50</description>
+    <Point>
+      <coordinates>20.481745, 53.774884</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Diabelski Kamień</name>
+    <description>42</description>
+    <Point>
+      <coordinates>20.910495, 54.087548</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Biskupiec - Kościół</name>
+    <description>19</description>
+    <Point>
+      <coordinates>20.953057, 53.861503</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>Bredynki - kościół ku czci pomordowanych przez pruskich żołnierzy</name>
+    <description>15</description>
+    <Point>
+      <coordinates>21.032211, 53.892744</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>Bredynki - kościół ku czci pomordowanych przez pruskich żołnierzy</name>
+    <description>15</description>
+    <Point>
+      <coordinates>21.032211, 53.892744</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Biała synagoga - Sejny</name>
+    <description>28</description>
+    <Point>
+      <coordinates>23.350992, 54.105550</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wigierski Park Narodowy</name>
+    <description>82</description>
+    <Point>
+      <coordinates>23.040464, 54.021220</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Marii Konopnickiej - Suwałki</name>
+    <description>51</description>
+    <Point>
+      <coordinates>22.928454, 54.096474</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Śluza Sosnówek</name>
+    <description>54</description>
+    <Point>
+      <coordinates>23.412576, 53.890147</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bazylika w Augustowie</name>
+    <description>47</description>
+    <Point>
+      <coordinates>22.980974, 53.842790</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bazylika w Augustowie</name>
+    <description>47</description>
+    <Point>
+      <coordinates>22.980974, 53.842790</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kanał augustowski</name>
+    <description>41</description>
+    <Point>
+      <coordinates>22.9918450, 53.841229</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sokółka - Cerkiew pw. św. Aleksandra Newskiego</name>
+    <description>37</description>
+    <Point>
+      <coordinates>23.495986, 53.404828</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Biebrzański Park Narodowy</name>
+    <description>78</description>
+    <Point>
+      <coordinates>22.810749, 53.583581</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Twierdza Osowiec</name>
+    <description>64</description>
+    <Point>
+      <coordinates>22.664373, 53.473753</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mikołajki - Śniardwy</name>
+    <description>78</description>
+    <Point>
+      <coordinates>21.568777, 53.801876</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Ziemi Piskiej</name>
+    <description>41</description>
+    <Point>
+      <coordinates>21.808002, 53.627935</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Ziemi Piskiej</name>
+    <description>41</description>
+    <Point>
+      <coordinates>21.808002, 53.627935</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek krzyżacki - Szczytno</name>
+    <description>52</description>
+    <Point>
+      <coordinates>20.989543, 53.566478</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chełmnża - Bazylika konkatedralna Świętej Trójcy</name>
+    <description>26</description>
+    <Point>
+      <coordinates>18.614025, 53.186376</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ełcka Kolej Wąskotorowa</name>
+    <description>71</description>
+    <Point>
+      <coordinates>22.363043, 53.826422</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ruiny Zamku krzyżackiego</name>
+    <description>26</description>
+    <Point>
+      <coordinates>22.341414, 53.818723</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wieża ciśnień - Gołdap</name>
+    <description>61</description>
+    <Point>
+      <coordinates>22.313177, 54.308021</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Park Krajobrazowy Puszczy Romnickiej</name>
+    <description>52</description>
+    <Point>
+      <coordinates>22.563287, 54.286774</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tężnie i Grota Solankowa - Gołdap</name>
+    <description>47</description>
+    <Point>
+      <coordinates>22.332999, 54.326622</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zespół Parków Krajobrazowych Pojezierza Iławskiego i Wzgórz Dylewskich</name>
+    <description>37</description>
+    <Point>
+      <coordinates>19.526347, 53.781313</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Welski Park Krajobrazowy</name>
+    <description>44</description>
+    <Point>
+      <coordinates>19.859965, 53.293955</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Park Krajobrazowy Wysoczyzny Elbląskiej</name>
+    <description>46</description>
+    <Point>
+      <coordinates>19.499321, 54.162843</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mazurski Park Karjobrazowy</name>
+    <description>41</description>
+    <Point>
+      <coordinates>21.430603, 53.687386</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Brok - Ośrodek wypoczynkowo-szkoleniowy</name>
+    <description>35</description>
+    <Point>
+      <coordinates>21.840261, 52.694332</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ostrołęka - Kościół farny pw. Nawiedzenia Najświętszej Maryii Panny</name>
+    <description>41</description>
+    <Point>
+      <coordinates>21.568795, 53.086388</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ogród Zoologiczny - Płock</name>
+    <description>65</description>
+    <Point>
+      <coordinates>19.700833, 52.536719</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Twierdza Modlin</name>
+    <description>78</description>
+    <Point>
+      <coordinates>20.676426, 52.439858</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Modlin - prochownia</name>
+    <description>58</description>
+    <Point>
+      <coordinates>20.668451, 52.439931</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jezioro Zegrzyńskie</name>
+    <description>66</description>
+    <Point>
+      <coordinates>21.074501, 52.509186</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dom Polinii - Pułtusk</name>
+    <description>33</description>
+    <Point>
+      <coordinates>21.094724, 52.703824</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Najdłuższy rynek w Europie - Pułtusk</name>
+    <description>41</description>
+    <Point>
+      <coordinates>21.090704, 52.706200</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Różan - Kościół pw. Św. Anny</name>
+    <description>22</description>
+    <Point>
+      <coordinates>21.399480, 52.890758</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wieża Ciśnień - Giżycko</name>
+    <description>67</description>
+    <Point>
+      <coordinates>21.779280, 54.036386</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Olecko - młyn wodny</name>
+    <description>36</description>
+    <Point>
+      <coordinates>22.509016, 54.036584</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Olecko - plaża miejska</name>
+    <description>38</description>
+    <Point>
+      <coordinates>22.504378, 54.046827</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dwór Kaliczki</name>
+    <description>59</description>
+    <Point>
+      <coordinates>22.005604, 53.618545</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pałac Nakomiady</name>
+    <description>52</description>
+    <Point>
+      <coordinates>21.448210, 54.003979</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pałac w Kałkach</name>
+    <description>31</description>
+    <Point>
+      <coordinates>21.469088, 54.304394</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pałac w Skorwitach</name>
+    <description>52</description>
+    <Point>
+      <coordinates>21.138196, 53.841895</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sztynort - zespół zamkowy</name>
+    <description>29</description>
+    <Point>
+      <coordinates>21.684869, 54.132252</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ryn - zamek krzyżacki</name>
+    <description>47</description>
+    <Point>
+      <coordinates>21.546017, 53.938704</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Barciany - zamek krzyżacki</name>
+    <description>48</description>
+    <Point>
+      <coordinates>21.347730, 54.213773</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Puszcza Borecka</name>
+    <description>31</description>
+    <Point>
+      <coordinates>22.102642, 54.122122</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Park Dzikich Zwierząt - Kadzidłowo</name>
+    <description>46</description>
+    <Point>
+      <coordinates>21.488785, 53.711860</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fuledzki Róg</name>
+    <description>34</description>
+    <Point>
+      <coordinates>21.653496, 54.109921</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wyspa Upałty</name>
+    <description>28</description>
+    <Point>
+      <coordinates>21.672674, 54.174216</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wyspa Kormoranów</name>
+    <description>23</description>
+    <Point>
+      <coordinates>21.621973, 54.100723</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wyspa Kormoranów</name>
+    <description>23</description>
+    <Point>
+      <coordinates>21.621973, 54.100723</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wyspa Gilma</name>
+    <description>20</description>
+    <Point>
+      <coordinates>21.601387, 54.080190</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jezioro Wilkus</name>
+    <description>21</description>
+    <Point>
+      <coordinates>21.930094, 54.141479</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Śluza Karwik</name>
+    <description>17</description>
+    <Point>
+      <coordinates>21.785456, 53.684637</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Śluza Guzianka</name>
+    <description>15</description>
+    <Point>
+      <coordinates>21.568205, 53.661930</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wojnowo - cerkiew</name>
+    <description>35</description>
+    <Point>
+      <coordinates>21.484303, 53.667438</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>Wojnowo - cerkiew</name>
+    <description>35</description>
+    <Point>
+      <coordinates>21.484303, 53.667438</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Żeński klasztor staroobrzędowców</name>
+    <description>10</description>
+    <Point>
+      <coordinates>21.464036, 53.655193</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wigry - klasztor Pokamedulski</name>
+    <description>37</description>
+    <Point>
+      <coordinates>23.087010, 54.069035</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Prom rzeczny Wierzba</name>
+    <description>38</description>
+    <Point>
+      <coordinates>21.601155, 53.757077</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stara Różanka - wiatrak</name>
+    <description>48</description>
+    <Point>
+      <coordinates>21.400717, 54.109828</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dawny ołtarz ofiarny Jaćwigów</name>
+    <description>22</description>
+    <Point>
+      <coordinates>22.184113, 53.923069</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mosty w Stańczykach</name>
+    <description>59</description>
+    <Point>
+      <coordinates>22.654808, 54.297360</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ruiny wieży Bismarcka</name>
+    <description>23</description>
+    <Point>
+      <coordinates>21.540462, 54.214642</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Piramida w Rapie</name>
+    <description>21</description>
+    <Point>
+      <coordinates>22.021532, 54.309760</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Konstantego Ildefonsa Gałczyńskiego</name>
+    <description>61</description>
+    <Point>
+      <coordinates>21.502343, 53.610526</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kwatera Polowa Himmlera</name>
+    <description>56</description>
+    <Point>
+      <coordinates>21.853704, 54.149745</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kwatera Polowa Himmlera</name>
+    <description>56</description>
+    <Point>
+      <coordinates>21.853704, 54.149745</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wioska żeglarska Mikołajki</name>
+    <description>62</description>
+    <Point>
+      <coordinates>21.573513, 53.799094</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mariany Bunkier</name>
+    <description>31</description>
+    <Point>
+      <coordinates>21.523766, 54.030609</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>Mosty w Kiepojciach</name>
+    <description>53</description>
+    <Point>
+      <coordinates>22.582943, 54.295857</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mamerki - wieża widokowa</name>
+    <description>21</description>
+    <Point>
+      <coordinates>21.649792, 54.182073</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Park linowy śluza - Kanał Mazurski</name>
+    <description>45</description>
+    <Point>
+      <coordinates>21.593774, 54.208022</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Park miniatur Warmi i Mazur</name>
+    <description>39</description>
+    <Point>
+      <coordinates>21.512318, 54.081267</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pomnik Króla Jagiellończyka</name>
+    <description>32</description>
+    <Point>
+      <coordinates>19.032436, 54.037032</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pałac w Kamieńcu</name>
+    <description>37</description>
+    <Point>
+      <coordinates>19.375379, 53.767250</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pałac Bałoszyce</name>
+    <description>42</description>
+    <Point>
+      <coordinates>19.281754, 53.673690</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Orneta ratusz</name>
+    <description>38</description>
+    <Point>
+      <coordinates>20.130754, 54.115563</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Orneta ratusz</name>
+    <description>38</description>
+    <Point>
+      <coordinates>20.130754, 54.115563</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Orneta Kaplica Jerozolimska</name>
+    <description>26</description>
+    <Point>
+      <coordinates>20.117624, 54.112501</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Górowo Iławeckie - kolejowa wieża ciśnień</name>
+    <description>21</description>
+    <Point>
+      <coordinates>20.487135, 54.285402</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wysoka brama</name>
+    <description>38</description>
+    <Point>
+      <coordinates>20.577094, 54.126087</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kościół św. Jana Chrzciciela Tłokowo</name>
+    <description>32</description>
+    <Point>
+      <coordinates>20.737136, 53.993493</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kościół św. Barbary Lubawa</name>
+    <description>41</description>
+    <Point>
+      <coordinates>19.749036, 53.505813</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zakątek Mazurski Gim</name>
+    <description>41</description>
+    <Point>
+      <coordinates>20.601460, 53.576101</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Skansen Olsztynek</name>
+    <description>39</description>
+    <Point>
+      <coordinates>20.284528, 53.591218</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Brodnicki Park Krajobrazowy</name>
+    <description>44</description>
+    <Point>
+      <coordinates>19.387080, 53.358915</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek w Nidzicy</name>
+    <description>49</description>
+    <Point>
+      <coordinates>20.429535, 53.359500</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pszasnysz Gotycka dzwonnica</name>
+    <description>27</description>
+    <Point>
+      <coordinates>20.881221, 53.022044</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Maków Mazowiecki - Kościół pw. Bożego Ciała</name>
+    <description>23</description>
+    <Point>
+      <coordinates>21.102937, 52.862936</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek Gobulski</name>
+    <description>67</description>
+    <Point>
+      <coordinates>19.049571, 53.115381</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Golub-Dobrzyń - Domek Pod kapturem</name>
+    <description>29</description>
+    <Point>
+      <coordinates>19.054934, 53.114257</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kowalewo Pomorskie - zabytkowa baszta obronna</name>
+    <description>39</description>
+    <Point>
+      <coordinates>18.898937, 53.152719</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kwidzyn - Pałac Fermora</name>
+    <description>22</description>
+    <Point>
+      <coordinates>18.922030, 53.736992</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>Drobin - kościół</name>
+    <description>14</description>
+    <Point>
+      <coordinates>19.990541, 52.737626</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Raciąż - Kościł św. Wojciecha</name>
+    <description>27</description>
+    <Point>
+      <coordinates>20.114821, 52.782533</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bieżuń - Pałac Zamoyskiego</name>
+    <description>23</description>
+    <Point>
+      <coordinates>19.886017, 52.966140</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chełmno - Park miniatur Zamków Krzyżackich</name>
+    <description>43</description>
+    <Point>
+      <coordinates>18.429970, 53.349157</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chełmno - Brama Grudziądzka</name>
+    <description>29</description>
+    <Point>
+      <coordinates>18.428453, 53.350523</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kościół pw. Chrystusa Króla Wszechświata, Kolno</name>
+    <description>51</description>
+    <Point>
+      <coordinates>21.917634, 53.409987</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ostrów Mazowiecka - ratusz</name>
+    <description>32</description>
+    <Point>
+      <coordinates>21.892713, 52.801640</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ostrów Mazowiecka - Kaplica cmentarna pw. św. Zofii</name>
+    <description>31</description>
+    <Point>
+      <coordinates>21.892767, 52.807562</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pałac w Strzegocinie</name>
+    <description>35</description>
+    <Point>
+      <coordinates>20.839954, 52.685270</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kościół pw. św. Wojciecha - Prabuty</name>
+    <description>27</description>
+    <Point>
+      <coordinates>19.196857, 53.758060</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ruiny zamku biskupiego - Prabuty</name>
+    <description>12</description>
+    <Point>
+      <coordinates>19.195322, 53.759472</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dzierzgoń - kościół pw. Trójcy Przenajświętrzej</name>
+    <description>24</description>
+    <Point>
+      <coordinates>19.345412, 53.923035</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mikoszewo</name>
+    <description>59</description>
+    <Point>
+      <coordinates>18.967550, 54.333664</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Latarina morska - Krynica Pomorska</name>
+    <description>68</description>
+    <Point>
+      <coordinates>19.451324, 54.384503</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Żóromin - klasztor poreformacki</name>
+    <description>10</description>
+    <Point>
+      <coordinates>19.911379, 53.067787</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wąbrzeźno - kamienica</name>
+    <description>9</description>
+    <Point>
+      <coordinates>18.956785, 53.279728</coordinates>
+    </Point>
+  </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Placemark>
+        <name>Kościół p.w. NMP w Siemiatyczach</name>
+        <description>21</description>
+        <Point>
+            <coordinates>22.865049, 52.429095</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Cerkiew Prawosławna w Siemiatyczach</name>
+        <description>19</description>
+        <Point>
+            <coordinates>22.863024, 52.430241</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Klasztor Prawosławny Śww. Marty i Marii na Sw. Górze Grabarce</name>
+        <description>28</description>
+        <Point>
+            <coordinates>23.006140, 52.416654</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Skansen w Ciechanowcu</name>
+        <description>38</description>
+        <Point>
+            <coordinates>22.486525, 52.682745</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Góra zamkowa w Drochiczynie</name>
+        <description>60</description>
+        <Point>
+            <coordinates>22.65813, 52.394152</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Cerkiew pod wezwaniem Św. Mikołaja w Drochiczynie</name>
+        <description>60</description>
+        <Point>
+            <coordinates>22.659230, 52.395282</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Kościół pod wezewaniem sw. Jana Chrzciciela w Wysokiem Mazowiecku</name>
+        <description>20</description>
+        <Point>
+            <coordinates>22.507676, 52.920339</coordinates>
+        </Point>
+    </Placemark>
+  
+    <Placemark>
+        <name>Kościł pw. Trójcy przenajświętszej w Zambrowie</name>
+        <description>25</description>
+        <Point>
+            <coordinates>22.244336, 52.981533</coordinates>
+        </Point>
+    </Placemark>
+  
+    <Placemark>
+        <name>Kościół pw. Ducha Świętego w Zambrowie</name>
+        <description>25</description>
+        <Point>
+            <coordinates>22.252045, 52.989251</coordinates>
+        </Point>
+    </Placemark>
+  
+    <Placemark>
+        <name>Ziołowy  zakątek ogród botaniczny</name>
+        <description>25</description>
+        <Point>
+            <coordinates>22.761535, 52.640691</coordinates>
+        </Point>
+    </Placemark>
+  
+    <Placemark>
+        <name>Gredele dom rodzinny Zenka Martyniuka</name>
+        <description>3</description>
+        <Point>
+            <coordinates>23.238620, 52.677914</coordinates>
+        </Point>
+    </Placemark>
+  
+    <Placemark>
+        <name>Kościół w boćkach</name>
+        <description>20</description>
+        <Point>
+            <coordinates>23.048965, 52.653426</coordinates>
+        </Point>
+    </Placemark>
+  
+    <Placemark>
+        <name>Kościół w Boćkach</name>
+        <description>20</description>
+        <Point>
+            <coordinates>23.048965, 52.653426</coordinates>
+        </Point>
+    </Placemark>
+	
+    <Placemark>
+        <name>Cerkiew w Boćkach</name>
+        <description>20</description>
+        <Point>
+            <coordinates>23.042525, 52.650432</coordinates>
+        </Point>
+    </Placemark>
+	
+    <Placemark>
+        <name>Kościół wniebowzięcia NMP</name>
+        <description>23</description>
+        <Point> w brańsku
+            <coordinates>22.841675, 52.742362</coordinates>
+        </Point>
+    </Placemark>
+	
+    <Placemark>
+        <name>Cerkiew św. Symeona Słupnika w brańsku</name>
+        <description>16</description>
+        <Point> 
+            <coordinates>22.841804, 52.743531</coordinates>
+        </Point>
+    </Placemark>
+	
+    <Placemark>
+        <name>Cerkiew św. Symeona Słupnika w brańsku</name>
+        <description>16</description>
+        <Point> 
+            <coordinates>22.841804, 52.743531</coordinates>
+        </Point>
+    </Placemark>
+	
+    <Placemark>
+        <name>Ratusz i muzeum w bielsku podlaskim</name>
+        <description>28</description>
+        <Point> 
+            <coordinates>23.192272, 52.770847</coordinates>
+        </Point>
+    </Placemark>
+	
+    <Placemark>
+        <name>Kościół pw. Narodzenia NMP i św. Mikołaja</name>
+        <description>28</description>
+        <Point> 
+            <coordinates>23.190095, 52.770888</coordinates>
+        </Point>
+    </Placemark>
+	
+    <Placemark>
+        <name>Ratusz i muzeum w bielsku podlaskim</name>
+        <description>28</description>
+        <Point> 
+            <coordinates>23.190095, 52.770888</coordinates>
+        </Point>
+    </Placemark>
+	
+    <Placemark>
+        <name>Ratusz i muzeum w bielsku podlaskim</name>
+        <description>28</description>
+        <Point> 
+            <coordinates>23.193235, 52.773586</coordinates>
+        </Point>
+    </Placemark>
+	
+    <Placemark>
+        <name>Kościół pw. Matki Bożej z Góry Karmel</name>
+        <description>28</description>
+        <Point> 
+            <coordinates>23.193235, 52.773586</coordinates>
+        </Point>
+    </Placemark>
+	
+	
+    <Placemark>
+        <name>Mniszki Klaryski od Wieczystej Adoracji w Hajnówce</name>
+        <description>19</description>
+        <Point> 
+            <coordinates>23.609885, 52.748839</coordinates>
+        </Point>
+    </Placemark>
+	
+    <Placemark>
+        <name>Kościół pw. Podwyższenia Krzyża Świętego i Św. Stanisława Biskupa i Męczennika</name>
+        <description>28</description>
+        <Point> 
+            <coordinates>23.582504, 52.738867</coordinates>
+        </Point>
+    </Placemark>
+	
+    <Placemark>
+        <name>Muzeum Przyrodniczo-Leśne. Białowieskiego Parku Narodowego</name>
+        <description>57</description>
+        <Point> 
+            <coordinates> 23.846787, 52.703453</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Kościół pw. Matki Bożej z Góry Karmel</name>
+        <description>28</description>
+        <Point> 
+            <coordinates>23.193235, 52.773586</coordinates>
+        </Point>
+    </Placemark>
+	
+	
+	<Placemark>
+        <name>Zalew Repczyce</name>
+        <description>10</description>
+        <Point> 
+            <coordinates>23.359638, 52.546907</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Cerkiew prawosławna p.w. Ikony Matki Boskiej Wszystkich Strapionych Radość,ok. Mielnika</name>
+        <description>15</description>
+        <Point> 
+            <coordinates>23.234195, 52.357970</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Park Historyczny TRLOGIA w Mielniku</name>
+        <description>5</description>
+        <Point> 
+            <coordinates>23.005045, 52.340121</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Czar Podlasia Agroturystyka</name>
+        <description>5</description>
+        <Point> 
+            <coordinates>22.990545, 52.349916</coordinates>
+        </Point>
+    </Placemark>	
+
+	<Placemark>
+        <name>Jóźwiak Zofia. Agroturystyka, Granne</name>
+        <description>6</description>
+        <Point> 
+            <coordinates>22.512515, 52.539563</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Punkt widokowy</name>
+        <description>12</description>
+        <Point> 
+            <coordinates>22.158915, 52.703292</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Kościół parafialny pw. Najświętszego Serca Jezusowego w Małkini</name>
+        <description>17</description>
+        <Point> 
+            <coordinates>22.035685, 52.697791</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw św Jana Chrzciciela, Brańszczyk</name>
+        <description>13</description>
+        <Point> 
+            <coordinates>21.585563, 52.626686</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Przeprawa promowa Brańszczyk - Kamieńczyk</name>
+        <description>7</description>
+        <Point> 
+            <coordinates>21.550585, 52.605957</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Sanktuarium św. Idziego, Wyszków</name>
+        <description>25</description>
+        <Point> 
+            <coordinates>21.460762, 52.593840</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Obelisk Wazów Wyszków</name>
+        <description>11</description>
+        <Point> 
+            <coordinates>21.450592, 52.589878</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw. Świętej Rodziny</name>
+        <description>10</description>
+        <Point> 
+            <coordinates>21.424889, 52.595823</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Dom nad Wierzbami, Agroturystyka nad Bugiem, ok. Wyszkowa</name>
+        <description>14</description>
+        <Point> 
+            <coordinates>21.241364, 52.535617</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół Narodzenia NMP, Popowo Kościelne</name>
+        <description>15</description>
+        <Point> 
+            <coordinates>21.191965, 52.535561</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Plaża Miejska W Serocku</name>
+        <description>17</description>
+        <Point> 
+            <coordinates>21.077256, 52.515417</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kajakiem po Narwi</name>
+        <description>19</description>
+        <Point> 
+            <coordinates>21.083293, 52.557202</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół Katolicki pw. Św Rocha, 5ługosiodło</name>
+        <description>15</description>
+        <Point> 
+            <coordinates>21.595456, 52.760242</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Sanktuarium pw. Świętego Antoniego Padewskiego</name>
+        <description>16</description>
+        <Point> 
+            <coordinates>21.571158, 53.084818</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw. Wniebowzięcia NMP w Płońsku</name>
+        <description>27</description>
+        <Point> 
+            <coordinates>20.37418, 52.622109</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw. św. Michała Archanioła, Czerskie Rumunki</name>
+        <description>18</description>
+        <Point> 
+            <coordinates>19.257486, 52.786067</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Gotycki kościół Wniebowzięcia NMP (XIV w.)</name>
+        <description>38</description>
+        <Point> 
+            <coordinates>19.182019, 52.845088</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Parafia rzymskokatolicka, Czernikowo</name>
+        <description>9</description>
+        <Point> 
+            <coordinates>18.940842, 52.944959</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Złotoria - Ruiny zamku obronnego (1343)</name>
+        <description>17</description>
+        <Point> 
+            <coordinates>18.704534, 52.996179</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Skansen Kurpiowski, Nowogród</name>
+        <description>20</description>
+        <Point> 
+            <coordinates>21.874589, 53.227959</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw. Krzyża Świętego, Łomża</name>
+        <description>15</description>
+        <Point> 
+            <coordinates>22.076015, 53.157612</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Sanktuarium Miłosierdzia Bożego, Łomża</name>
+        <description>23</description>
+        <Point> 
+            <coordinates>22.073995, 53.169196</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw. Św.Trójcy</name>
+        <description>11</description>
+        <Point> 
+            <coordinates>20.382245, 53.111748</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Interaktywne Muzeum Państwa Krzyżackiego w działdowie</name>
+        <description>21</description>
+        <Point> 
+            <coordinates>20.178865, 53.232923</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Zamek krzyżacki w działdowie</name>
+        <description>36</description>
+        <Point> 
+            <coordinates>20.182239, 53.234587</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw. św. Jana Nepomucena w Wielbarku</name>
+        <description>26</description>
+        <Point> 
+            <coordinates>20.945725, 53.400099</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół Świętej Trójcy II ćwierci XIV w, Rypin</name>
+        <description>44</description>
+        <Point> 
+            <coordinates>19.405068, 53.068178</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół parafialny świętego Krzyża, Górzno</name>
+        <description>18</description>
+        <Point> 
+            <coordinates>19.646486, 53.196734</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Kościół świętego Mikołaja, Chorzele</name>
+        <description>13</description>
+        <Point> 
+            <coordinates>20.895813, 53.257179</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Parafia rzymskokatolicka Trójcy Przenajświętszej, Myszyniec</name>
+        <description>26</description>
+        <Point> 
+            <coordinates>21.346576, 53.382122</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Pomnik pamięci pogromu Żydów z Jedwabnego i okolic 10.07.1941</name>
+        <description>33</description>
+        <Point> 
+            <coordinates>22.309529, 53.288745</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Strękowa góra 113 m.n.p.m</name>
+        <description>22</description>
+        <Point> 
+            <coordinates>22.489595, 53.212479</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół p.w. św. Antoniego Padewskiego w Stawiskach</name>
+        <description>19</description>
+        <Point> 
+            <coordinates>22.155546, 53.379569</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>zalew siemianówka</name>
+        <description>17</description>
+        <Point> 
+            <coordinates>23.839806, 52.902240</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Cerkiew Św.Jerzego w Siemianówce</name>
+        <description>10</description>
+        <Point> 
+            <coordinates>23.838776, 52.902337</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Pałac Buchholtza, Supraśl</name>
+        <description>24</description>
+        <Point> 
+            <coordinates>23.342816, 53.206790</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Pałac Branickich, Białystok</name>
+        <description>74</description>
+        <Point> 
+            <coordinates>23.165195, 53.130593</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Politechnika Białostocka</name>
+        <description>88</description>
+        <Point> 
+            <coordinates>23.149735, 53.118368</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Park Rozrywki FastPark, Fasty</name>
+        <description>32</description>
+        <Point> 
+            <coordinates>23.068665, 53.162930</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół św. Rocha, Białystok</name>
+        <description>53</description>
+        <Point> 
+            <coordinates>23.144880, 53.134503</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Bazylika Mniejsza Kościół NMP "Farny", Białystok</name>
+        <description>52</description>
+        <Point> 
+            <coordinates>23.163120, 53.132373</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>zamek w Tykocinie</name>
+        <description>38</description>
+        <Point> 
+            <coordinates>22.770695, 53.213039</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Chatka ,,Szwagra", Mońki</name>
+        <description>27</description>
+        <Point> 
+            <coordinates>22.786725, 53.402641</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Punkt widokowy</name>
+        <description> 20</description>
+        <Point> 
+            <coordinates>22.733729, 53.491116</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw. Trójcy Przenajświętszej, Grajewo</name>
+        <description>24</description>
+        <Point> 
+            <coordinates>22.456836, 53.647338</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kolej Leśna w Puszczy Knyszyńskiej, Czarna Białostocka</name>
+        <description>47</description>
+        <Point> 
+            <coordinates>23.273336, 53.309294</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Synagoga chasydów ze Słonimia</name>
+        <description>38</description>
+        <Point> 
+            <coordinates>23.771810, 53.262887</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Meczet w Bohonikach</name>
+        <description>47</description>
+        <Point> 
+            <coordinates>23.591379, 53.390670</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Bohoniki, Tatarzy</name>
+        <description>57</description>
+        <Point> 
+            <coordinates>23.594625, 53.392792</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Drewniany Meczet w Kruszynianach</name>
+        <description>76</description>
+        <Point> 
+            <coordinates>23.813775, 53.177687</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Cerkiew w Kruszynianach</name>
+        <description>56</description>
+        <Point> 
+            <coordinates>23.818725, 53.181759</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Największe rondo w Polsce, Krynki</name>
+        <description>13</description>
+        <Point> 
+            <coordinates>23.772985, 53.264519</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Cerkiew Podwyższenia Krzyża Pańskiego w Narwi</name>
+        <description>68</description>
+        <Point> 
+            <coordinates>23.518321, 52.912429</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw. Stanisława Biskupa w Narwi</name>
+        <description>43</description>
+        <Point> 
+            <coordinates>23.520295, 52.914972</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>skit- pustelnia, ordynki</name>
+        <description>27</description>
+        <Point> 
+            <coordinates>23.606211, 52.938981</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Cerkiew w Puchłach</name>
+        <description>45</description>
+        <Point> 
+            <coordinates>23.401152, 52.913105</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Cerkiew w Trześciance</name>
+        <description>43</description>
+        <Point> 
+            <coordinates>23.447016, 52.939676</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Cerkiew w Pawłach</name>
+        <description>35</description>
+        <Point> 
+            <coordinates>23.322071, 52.941584</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name> molenna staroobrzędowców, Suwałki</name>
+        <description>24</description>
+        <Point> 
+            <coordinates>22.947596, 54.101280</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Ratusz w Suwałkach</name>
+        <description>32</description>
+        <Point> 
+            <coordinates>22.927845, 54.098632</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Ławeczka Konopnickiej w Suwałkach</name>
+        <description>12</description>
+        <Point> 
+            <coordinates>22.927916, 54.104304</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Góra Krzemieniucha</name>
+        <description>21</description>
+        <Point> 
+            <coordinates>22.883381, 54.183293</coordinates>
+        </Point>
+    </Placemark>	
+
+	
+	<Placemark>
+        <name>Kościół pw. Św.Teresy z Avila, wiżajny</name>
+        <description>34</description>
+        <Point> 
+            <coordinates>22.866735, 54.368282</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Trójstyk Granic</name>
+        <description>15</description>
+        <Point> 
+            <coordinates>22.792056, 54.363143</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół i Pomnik Ofiar I i II Wojny Światowej</name>
+        <description>25</description>
+        <Point> 
+            <coordinates>22.695185, 54.355346</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Bazylika par. pw. Wniebowzięcia NMP</name>
+        <description>56</description>
+        <Point> 
+            <coordinates>23.175559, 54.249432</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Centrum Wypoczynku i Rozrywki "Šilainė"</name>
+        <description></description>
+        <Point> 
+            <coordinates>23.193721, 54.214188</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>piłokajlnia- grodzisko jaćwieskie</name>
+        <description>26</description>
+        <Point> 
+            <coordinates>23.279489, 54.159226</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>kapliczka zabytkowa, Krasnopol</name>
+        <description>37</description>
+        <Point> 
+            <coordinates>23.209860, 54.113944</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Krasnapolio Dievo Atsimainymo bažnyčia, Krasnapol</name>
+        <description>31</description>
+        <Point> 
+            <coordinates>23.206558, 54.114878</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Słoneczny Stok Gospodarstwo Turystyczne</name>
+        <description>10</description>
+        <Point> 
+            <coordinates>23.438092, 54.104403</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Pomnik ofiar Obławy Augustowskiej,Giby</name>
+        <description>15</description>
+        <Point> 
+            <coordinates>23.357495, 54.041319</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>plaża w Gibach</name>
+        <description>13</description>
+        <Point> 
+            <coordinates>23.355193, 54.036583</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Muzeum Etnograficzne, Zelwa</name>
+        <description></description>
+        <Point> 
+            <coordinates>23.452486, 54.025666</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Cerkiew Opieki Matki Bożej, 5ubicze Cerkiewne</name>
+        <description>34</description>
+        <Point> 
+            <coordinates>23.428795, 52.654180</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Zalew w Dubiczach Cekiewnych</name>
+        <description>17</description>
+        <Point> 
+            <coordinates>23.443155, 52.640560</coordinates>
+        </Point>
+    </Placemark>	
+	
+	
+	<Placemark>
+        <name>Kościół pw. Matki Bożej Anielskiej, Lipsk</name>
+        <description>36</description>
+        <Point> 
+            <coordinates>23.397959, 53.735244</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Wiatrak, 5ąbrowa Białostocka</name>
+        <description>29</description>
+        <Point> 
+            <coordinates>23.352137, 53.645956</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw. św. Stanisława Biskupa i Męczennika, 5ąbrowa Białostocka</name>
+        <description>31</description>
+        <Point> 
+            <coordinates>23.347207, 53.651839</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Cerkiew pw. Św. Mikołaja, Nowy Dwór</name>
+        <description>12</description>
+        <Point> 
+            <coordinates>23.547557, 53.629474</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Geograficzny środek Europy,Suchowola</name>
+        <description>16</description>
+        <Point> 
+            <coordinates>23.106742, 53.577867</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Kościół pw. Św. Apostołów Piotra i Pawła, Suchowola</name>
+        <description>29</description>
+        <Point> 
+            <coordinates>23.106457, 53.578529</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Biebrza spływ: kajaki, canoe, tratwy, 5olistowo Stare</name>
+        <description> 21</description>
+        <Point> 
+            <coordinates>22.904083, 53.550082</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Parafia rzymskokatolicka pw. św. Wawrzyńca, 5olistowo Stare</name>
+        <description>15</description>
+        <Point> 
+            <coordinates>22.903355, 53.548789</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Pomnik Truskawki, Korycin</name>
+        <description>27</description>
+        <Point> 
+            <coordinates>23.091213, 53.444754</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw. Znalezienia i Podwyższenia Krzyża Świętego, Korycin</name>
+        <description>48</description>
+        <Point> 
+            <coordinates>23.096448, 53.440753</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Kościół pw. Narodzenia Najświętszej Maryi Panny, Rajgród</name>
+        <description>37</description>
+        <Point> 
+            <coordinates>22.698385, 53.730964</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Góra Zamkowa, Rajgród</name>
+        <description>67</description>
+        <Point> 
+            <coordinates>22.686317, 53.732700</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Punkt widokowy, Rajgród</name>
+        <description>21</description>
+        <Point> 
+            <coordinates>22.669185, 53.735470</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name> Parafia Rzymskokatolicka p.w. Podwyższenia Krzyża Świętego, Bargłów Kościelny</name>
+        <description>15</description>
+        <Point> 
+            <coordinates>22.819588, 53.771337</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Parafia rzymskokatolicka pw. Opatrzności Bożej, Kuźnica</name>
+        <description>33</description>
+        <Point> 
+            <coordinates>23.646440, 53.514401</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Knyszyn - Późnogotycki kościół św. Jana Apostoła i św. Jana Ewangelisty (1520)</name>
+        <description>38</description>
+        <Point> 
+            <coordinates>22.916794, 53.311791</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół św. Jana Chrzciciela i św. Szczepana w Choroszczy</name>
+        <description>25</description>
+        <Point> 
+            <coordinates>22.989065, 53.142104</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw. św. Ap. Piotra i Pawła, Łapy</name>
+        <description>27</description>
+        <Point> 
+            <coordinates>22.889467, 52.988613</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół Parafialny pw. NMP Matki Miłosierdzia, Szepietowo</name>
+        <description>17</description>
+        <Point> 
+            <coordinates>22.544974, 52.866335</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Parafia prawosławna pw. Narodzenia NMP, Gródek</name>
+        <description>15</description>
+        <Point> 
+            <coordinates>23.664989, 53.094721</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Kościół św. Piotra i Pawła, Zabłudów</name>
+        <description>26</description>
+        <Point> 
+            <coordinates>23.339424, 53.014971</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Cerkiew pw. Zaśnięcia NMP, Zabłudów</name>
+        <description>15</description>
+        <Point> 
+            <coordinates>23.338777, 53.013590</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Parafia rzymskokatolicka pw. Świętej Trójcy, Juchnowiec Kościelny</name>
+        <description>12</description>
+        <Point> 
+            <coordinates>23.141358, 53.018412</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Góra Zamkowa, Suraż</name>
+        <description>26</description>
+        <Point> 
+            <coordinates>22.947350, 52.942843</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Park linowy Doktorce</name>
+        <description>34</description>
+        <Point> 
+            <coordinates>23.073391, 52.910239</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Parafia rzymskokatolicka pw. Matki Bożej Bolesnej, Osmola</name>
+        <description>16</description>
+        <Point> 
+            <coordinates>22.957307, 52.573429</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Cerkiew pw.Św.Barbary, Milejczyce</name>
+        <description></description>
+        <Point> 
+            <coordinates>23.127560, 52.520095</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół św.Stanisława, Milejczyce</name>
+        <description>27</description>
+        <Point> 
+            <coordinates>23.135642, 52.520620</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kosciół MB Częstochowskiej, Nurzec-Stacja</name>
+        <description>21</description>
+        <Point> 
+            <coordinates>23.082293, 52.457322</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Dwór Dołubowo</name>
+        <description>13</description>
+        <Point> 
+            <coordinates>22.877556, 52.615565</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Parafia rzymskokatolicka św. Bartłomieja Apostoła, Troszyn</name>
+        <description>36 </description>
+        <Point> 
+            <coordinates>21.733712, 53.031020</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Parafia rzymskokatolicka Trójcy Przenajświętszej, Czerwin</name>
+        <description>37</description>
+        <Point> 
+            <coordinates>21.758637, 52.950062</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół Matki Boskiej Szkaplerznej, Pokrzywnica</name>
+        <description>32</description>
+        <Point>
+            <coordinates>21.018643, 52.616157 </coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Parafia Rzymskokatolicka p.w. św. Dominika, Krzynowłoga Mała</name>
+        <description>31</description>
+        <Point> 
+            <coordinates>20.785875, 53.153158</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw. św. Stanisława BM, Glinojeck </name>
+        <description>21</description>
+        <Point> 
+            <coordinates>20.284058, 52.818716</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Pałac, Staroźreby</name>
+        <description>27</description>
+        <Point> 
+            <coordinates>19.991858, 52.630627</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Kościół pw. Aniołów Stróżów, Staroźreby</name>
+        <description>21</description>
+        <Point> 
+            <coordinates>19.993677 , 52.636138</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Pałac Narzymskich, Jabłonowo Pomorskie</name>
+        <description>66</description>
+        <Point> 
+            <coordinates>19.135526, 53.386821</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Parafia rzymskokatolicka św. Katarzyny, Łasin</name>
+        <description>51</description>
+        <Point> 
+            <coordinates>19.088135, 53.518543 </coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Urząd Miasta i Gminy(zabytkowy), łasin</name>
+        <description>51</description>
+        <Point> 
+            <coordinates>19.082898, 53.517952</coordinates>
+        </Point>
+    </Placemark>	
+	
+	<Placemark>
+        <name>Pałac Opatek, Grudziądz</name>
+        <description>46</description>
+        <Point> 
+            <coordinates>18.747693, 53.490751</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Wielka Żuława, Iława</name>
+        <description>51</description>
+        <Point> 
+            <coordinates>19.551054, 53.609012</coordinates>
+        </Point>
+    </Placemark>	
+		<Placemark>
+        <name>Bazylika Narodzenia Najświętszej Maryi Panny w Gietrzwałdzie</name>
+        <description>47</description>
+        <Point> 
+            <coordinates>20.235721, 53.748102</coordinates>
+        </Point>
+    </Placemark>	
+		<Placemark>
+        <name>Zamek w Barczewie</name>
+        <description>31</description>
+        <Point> 
+            <coordinates>20.692306, 53.828924</coordinates>
+        </Point>
+    </Placemark>	
+		<Placemark>
+        <name>Kościół Świętej Anny i Świętego Szczepana</name>
+        <description>78</description>
+        <Point> 
+            <coordinates>20.691514, 53.828770</coordinates>
+        </Point>
+    </Placemark>
+	
+	<Placemark>
+        <name>Hotel Gołebiewski, Białystok</name>
+        <description>-1</description>
+        <Point> 
+            <coordinates>23.169967, 53.132134</coordinates>
+        </Point>
+    </Placemark>
+	<Placemark>
+        <name>VELVET*** HOTEL & RESTAURANT, Suwałki</name>
+        <description>-1</description>
+        <Point> 
+            <coordinates>22.928133, 54.106795</coordinates>
+        </Point>
+    </Placemark>
+		<Placemark>
+        <name>HOTEL HERMAN****, Płock</name>
+        <description>-1</description>
+        <Point> 
+            <coordinates>19.692987, 52.544915</coordinates>
+        </Point>
+    </Placemark>
+		<Placemark>
+        <name>Hotel Wysoka Brama, Olsztyn</name>
+        <description>-1</description>
+        <Point> 
+            <coordinates>20.477620, 53.777492</coordinates>
+        </Point>
+    </Placemark>
+		<Placemark>
+        <name>Hotel Via Baltica Łomża</name>
+        <description>-1</description>
+        <Point> 
+            <coordinates>21.966326, 53.165878</coordinates>
+        </Point>
+    </Placemark>
+		<Placemark>
+        <name>Pod Lwem. Hotel, Elbląg</name>
+        <description>-1</description>
+        <Point> 
+            <coordinates>19.397444, 54.159042</coordinates>
+        </Point>
+    </Placemark>
+		<Placemark>
+        <name>Copernicus Toruń Hotel</name>
+        <description>-1</description>
+        <Point> 
+            <coordinates>18.597384, 53.007999</coordinates>
+        </Point>
+    </Placemark>
+		<Placemark>
+        <name>Millennium Hotel, Pszasnysz</name>
+        <description>-1</description>
+        <Point> 
+            <coordinates>20.884519, 53.017552</coordinates>
+        </Point>
+    </Placemark>
+		<Placemark>
+        <name>Bartis. Hotel, Bartoszyce</name>
+        <description>-1</description>
+        <Point> 
+            <coordinates>20.811406, 54.251513</coordinates>
+        </Point>
+    </Placemark>
+		<Placemark>
+        <name>St. Bruno Hotel Spa Mazury****, Giżycko</name>
+        <description>-1</description>
+        <Point> 
+            <coordinates>21.760272, 54.035549</coordinates>
+        </Point>
+    </Placemark>
+	</Document>
+</kml>

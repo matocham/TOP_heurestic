@@ -1,0 +1,51 @@
+{
+  "configuration": {
+    "name": "Default",
+    "packages":"pl.edu.pb.gui.logger",
+    "appenders": {
+      "RollingFile": {
+        "name": "File",
+        "fileName": "./logs.log",
+        "PatternLayout": {
+          "pattern": "[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n"
+        },
+        "Policies": {
+          "SizeBasedTriggeringPolicy": {
+            "size": "10 MB"
+          }
+        },
+        "DefaultRolloverStrategy": {
+          "max": "10"
+        }
+      },
+      "Console": {
+        "name": "STDOUT",
+        "PatternLayout": {
+          "pattern": "[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n"
+        }
+      },
+      "TextAreaAppender": {
+        "name": "TextAreaAppender",
+        "PatternLayout": {
+          "pattern": "%d{yyyy-MM-dd HH:mm:ss} - %m%n"
+        }
+      }
+    },
+    "loggers": {
+      "root": {
+        "level": "warn",
+        "appender-ref": [
+          {
+            "ref": "File"
+          },
+          {
+            "ref": "STDOUT"
+          },
+          {
+            "ref": "TextAreaAppender"
+          }
+        ]
+      }
+    }
+  }
+}
